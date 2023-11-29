@@ -1,0 +1,5 @@
+com\swagger\SpringBootSwagger3ExampleApplication.class
+com\swagger\model\User.class
+com\swagger\controller\Swagger3RestController.class
+com\swagger\service\Swagger3RestService.class
+com\swagger\repository\Swagger3RestRepository.class
